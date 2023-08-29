@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "839009666169",
+    "firebase_url": "https://midmrng-shopping-app-default-rtdb.firebaseio.com",
+    "project_id": "midmrng-shopping-app",
+    "storage_bucket": "midmrng-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839009666169:android:49936e64d1bb9c179d40a8",
+        "android_client_info": {
+          "package_name": "com.raynaldgitaz.augustmidmorningnavigationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839009666169-1p4qm70shd9r8hbu93c5d01ddfdeql5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv8wJtWC6CiAEzCGh4p0GkFTHiEyQYPg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839009666169-1p4qm70shd9r8hbu93c5d01ddfdeql5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
